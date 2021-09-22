@@ -1,0 +1,41 @@
+.Media{
+    display: flex;
+    flex-direction: row;
+    margin-left: -40rem;
+    position: absolute;
+
+}
+.First{
+    margin-top: 0rem;
+    width: 15rem;
+    height: 20rem;
+}
+.Second{
+    margin-top: 0rem;
+    width: 15rem;
+    height: 20rem;
+}
+.Primario{
+    margin-top: 35rem;
+    display: flex;
+    flex-direction: row;
+    
+    margin-left: 0rem;
+    margin-left: -40rem;
+    margin-top: 22rem;
+}
+.formulario-login{
+    margin-top: -3.5rem;
+    background-color: rgba(150, 149, 149, 0);
+}
+.formulario-login .Fila2{
+    width: 13rem;
+    height: 15rem;
+}
+.formulario-login .Fila1{
+    width: 13rem;
+    height: 15rem;
+}
+.Fondo{
+    height: 77.8rem;
+}

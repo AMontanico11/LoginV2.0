@@ -1,0 +1,128 @@
+.Fondo{
+    background: linear-gradient(313.78deg, #2855AE -3.15%, #7292CF 100%);
+    padding-top: 3.7rem;
+    
+}
+.formulario-login{
+    max-width: 37.5rem;
+    height: auto;
+    margin: auto;
+    margin-top: 6rem;
+    padding: 3rem 0.5rem;
+
+    display: flex;
+    flex-direction: column;
+}
+.formulario-login{
+    background-color: #fff;
+    border-radius: 4rem 4rem 0rem 0rem;
+    
+}
+.banner-login h2{
+    color: #fff;
+    font-size: 2.7rem;
+    font-weight: normal;
+}
+.banner-login span{
+    margin-top: 1rem;
+    font-size: var(--size-parrafo);
+    font-weight: normal;
+    color: #FFFFFF;
+    opacity: 0.61;
+    
+}
+.banner-login h3{
+    margin-top: 1rem;
+    color: #6184C7;
+    width: 8.5rem;
+    padding: 0.5rem 1rem 0.5rem 1.5rem;
+    background: #fff;
+    border-radius: 3rem;
+}
+.banner-login div{
+    margin-top: 1.5rem;
+
+    position: absolute;
+    display: flex;
+    justify-content: flex-end;
+    align-self: flex-end;
+}
+
+.formulario-login{
+    display: flex;
+    flex-direction: row;
+}
+.formulario-login img {
+    margin-top: 1rem;
+    padding: 2rem;
+}
+.formulario-login p{
+    font-size: var(--size-parrafo);
+    
+    font-weight: normal;
+    padding: 0rem 0rem 0rem 2rem;
+}
+.Fila1, .Fila2{
+    margin: 1rem;
+    border-radius: 1rem;
+    margin-top: 2rem;
+    background-color: #F5F6FC;
+    width: 16.3rem;
+    height: 13.2rem;
+}
+.First{
+    width: 16.3rem;
+    height: 20.2rem;
+    margin: 1rem;
+    
+    border-radius: 1.5rem;
+    margin-top: -15.8rem;
+
+    background-color: #FFFFFF;
+    border: 1px solid #5278C1;
+    color: var(--gris2);
+}
+
+.Delta{
+    width: 7.2rem;
+    height: 7.2rem;
+    margin-left: 1.5rem;
+    background-color: #FCF3E2;
+    border-radius: 100%;
+}
+.Second{
+    width: 16.3rem;
+    height: 20.2rem;
+    margin: 1rem;
+    
+    border-radius: 1.5rem;
+    margin-top: -15.8rem;
+
+    background-color: #FFFFFF;
+    border: 1px solid #5278C1;
+    color: var(--gris2);
+}
+.fondo{
+    width: 7.2rem;
+    height: 7.2rem;
+    border-radius: 100%;
+    background-color: #FFD8FF;
+    margin-left: 1.5rem;
+}
+.Perfil{
+    background-color: white;
+    width: 6.2rem;
+    height: 6.2rem;
+    border-radius: 100%;
+    padding: 0.01rem 0.17rem 0.16rem 0.11rem;
+    
+}
+.Perfil div{
+    background-color: #CACACA;
+    width: 5.8rem;
+    height: 5.8rem;
+    border-radius: 100%;
+    
+    
+}
+

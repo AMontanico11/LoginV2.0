@@ -1,0 +1,23 @@
+section{
+    max-width: 37.5rem;
+}
+.login-Fondo{
+    height: 100vh;
+}
+.login-Fondo{
+    padding-top: 0rem;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.formulario-login{
+
+    width: 50rem;
+    height: 35rem;
+    background-color: #fff;
+    border-radius: 4rem 4rem 4rem 4rem;
+}
+.banner-login{
+    margin-top: 15rem;
+}

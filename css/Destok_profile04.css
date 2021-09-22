@@ -1,0 +1,40 @@
+section{
+    max-width: 37.5rem;  
+}
+.login-Fondo{
+    height: 100vh;
+}
+.formulario-login{
+    max-width: 85rem;
+    margin-left: 25rem;
+}
+.formulario_label3 input{
+    width: 90%;
+}
+.Lock3{
+    margin-left: 15rem;
+}
+.Fila1{
+    margin-left: 20rem;
+}
+.Second{
+    margin-left: 25rem;
+}
+.third{
+    display: flex;
+    flex-direction:row;
+    margin-left: -80rem;
+}
+.First{
+    width: 80rem;
+    height: 10.0rem;
+    margin: 1rem;
+    border-radius: 1.5rem;
+
+    border: 1px solid #5278C1;
+    color: var(--gris2);
+    
+}
+.Camara{
+    margin-left: 72rem;
+}
